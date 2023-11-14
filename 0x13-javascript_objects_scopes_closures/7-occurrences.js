@@ -1,3 +1,4 @@
+#!/usr/bin/node
 exports.nbOccurences = function (list, searchElement) {
   let numberOccurences = 0;
   for (const nbr of list) {
